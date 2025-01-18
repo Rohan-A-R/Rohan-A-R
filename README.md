@@ -24,7 +24,7 @@
     </td>
     <td>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-cyber27&layout=compact&theme=radical" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-A-R&layout=compact&theme=radical" alt="Top Languages" />
       </p>
     </td>
   </tr>
@@ -34,10 +34,14 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/rohan-a-r-9bb11720a" target="_blank">
+  <a href="https://www.linkedin.com/in/rohanar27/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+    <a href="https://www.geeksforgeeks.org/user/rohanar/" target="_blank">
+    <img align="center" src="https://github.com/user-attachments/assets/c4d36f61-6b65-4b00-b46c-96add3137a09" alt="LinkedIn" height="40" width="30" />
+  </a>
 </p>
+
 
 ---
 
