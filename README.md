@@ -38,7 +38,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
     <a href="https://www.geeksforgeeks.org/user/rohanar/" target="_blank">
-    <img align="center" src="https://github.com/user-attachments/assets/c4d36f61-6b65-4b00-b46c-96add3137a09" alt="LinkedIn" height="40" width="30" />
+    <img align="center" src="https://github.com/user-attachments/assets/c4d36f61-6b65-4b00-b46c-96add3137a09" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
