@@ -82,7 +82,11 @@
   <li>Hands-on experience with projects in Azure and Active Directory</li>
   <li>Developed data analytics and cybersecurity monitoring tools</li>
 </ul>
-
 ---
 
 <h3 align="center">🚀 Let’s build and grow together!</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rohan-A-R&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
+
