@@ -35,30 +35,31 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/rohanar27/" target="_blank">
+  <a href="https://www.linkedin.com/in/rohanar27/" target="_blank" style="margin-right: 20px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 
   <!-- GeeksforGeeks -->
-  <a href="https://www.geeksforgeeks.org/user/ohr/" target="_blank">
+  <a href="http://www.geeksforgeeks.org/user/rohanar" target="_blank" style="margin-right: 20px;">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg" alt="Gmail" height="30" width="40" />
+  <a href="mailto:rohanar197427@gmail.com" target="_blank" style="margin-right: 20px;">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/your_leetcode_username/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://leetcode.com/u/Flash_007_/" target="_blank" style="margin-right: 20px;">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
   </a>
 
-  <!-- Resume (Google Drive) -->
-  <a href="https://drive.google.com/file/d/your_resume_id/view" target="_blank">
+  <!-- Resume -->
+  <a href="https://drive.google.com/file/d/1iRa0C3bOTOczOn1hUQFo5TkhvNKsd5ti/view?usp=drive_link" target="_blank" style="margin-right: 20px;">
     <img align="center" src="https://img.icons8.com/color/48/000000/resume.png" alt="Resume" height="30" width="40" />
   </a>
 </p>
+
 
 
 
