@@ -34,13 +34,32 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rohanar27/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-    <a href="https://www.geeksforgeeks.org/user/ohr/" target="_blank">
-    <img align="center" src="https://github.com/user-attachments/assets/c4d36f61-6b65-4b00-b46c-96add3137a09" alt="LinkedIn" height="30" width="40" />
+
+  <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/user/ohr/" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:your.email@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg" alt="Gmail" height="30" width="40" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/your_leetcode_username/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+
+  <!-- Resume (Google Drive) -->
+  <a href="https://drive.google.com/file/d/your_resume_id/view" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/resume.png" alt="Resume" height="30" width="40" />
   </a>
 </p>
+
 
 
 ---
