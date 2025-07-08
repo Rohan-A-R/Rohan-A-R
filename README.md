@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Description" width="1000px" height="100px" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Description" width="900px" height="300px" />
 </p>
   
 <h1 align="center">Hi 👋, I'm Rohan AR</h1>
