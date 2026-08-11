@@ -1,137 +1,194 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Description" width="900px" height="300px" />
-</p>
-  
-<h1 align="center">Hi 👋, I'm Rohan AR</h1>
-<h3 align="center">A passionate Cloud, Linux, and Windows Enthusiast from India</h3>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:3B82F6&height=200&section=header&text=Rohan%20AR&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer&descAlignY=55&descSize=22" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&height=50&lines=Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Apache+Kafka;Event-driven+systems+at+production+scale;Building+LLM+serving+infrastructure" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/rohanar27/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rohanar197427@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Flash_007_/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://drive.google.com/file/d/1iRa0C3bOTOczOn1hUQFo5TkhvNKsd5ti/view?usp=drive_link"><img src="https://img.shields.io/badge/Résumé-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
+## 👨‍💻 &nbsp;About Me
+
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+```java
+public class Rohan {
+
+    String  role      = "Backend Engineer @ TripFactory";
+    String  location  = "Bengaluru, India";
+    String  education = "MTech, RV College of Engineering";
+
+    String[] buildingWith = { "Java", "Spring Boot", "Kafka" };
+
+    String[] focus = {
+        "Event-driven architecture",
+        "Production LLM systems",
+        "Distributed backend systems"
+    };
+
+    String currentProject = "LLM Gateway";
+    boolean openToWork    = true;
+}
+```
+
+<br clear="right"/>
+
+<div align="center">
+
+| | |
+|---|---|
+| 🔭 | Building **Kafka pipelines** that crawl, classify and extract at **800–1,200 pages per run** |
+| 🤖 | Shipping **production LLM systems** — structured extraction, semantic dedup, multi-format parsing |
+| 🔌 | Integrating **supplier APIs** end to end — search, live pricing, booking, cancellation |
+| ⚡ | Going deep on **LLM serving infrastructure** — caching, rate limiting, failover |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🚀 &nbsp;Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🚧 &nbsp;LLM Gateway</h3>
+
+<p align="center"><i>In active development</i></p>
+
+A self-hosted gateway between applications and LLM providers.
+
+`🧠` Two-tier semantic cache with a **published false-positive curve**
+
+`🎫` Token-based rate limiting — reserve, then reconcile
+
+`🔀` Explicit failover policy for streams that die mid-response
+
+`💰` Cost accounting per key, model and feature
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Python+Developer;Cloud+Computing+Enthusiast;Linux+%26+Windows+Administrator;Always+Learning+%26+Growing" alt="Typing SVG">
+<img src="https://skillicons.dev/icons?i=java,spring,redis,postgres,docker&theme=dark" height="40" />
 </p>
 
----
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🗺️ &nbsp;Smart Travel Planner</h3>
+
+<p align="center"><i>Multi-agent system</i></p>
+
+Constraint-aware travel planning with collaborative agent reasoning.
+
+`🤝` Modular multi-agent architecture
+
+`🔍` Conflict detection and itinerary validation
+
+`🔧` Self-healing logic for infeasible plans
+
+`🌐` Live weather and places API integration
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,gcp,git&theme=dark" height="40" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🛠️ &nbsp;Tech Stack
+
+<div align="center">
 
 <table>
   <tr>
-    <td>
-      <h3>🌟 About Me:</h3>
-      <ul>
-        <li>🌱 I’m currently learning <strong>Azure Cloud</strong></li>
-        <li>🔭 I’m working on <strong>Intelligent Data Storage and Management Systems</strong></li>
-        <li>💡 I enjoy solving challenges in <strong>Cloud, Cybersecurity, and Automation</strong></li>
-        <li>📫 Reach me at <strong>rohanar197427@gmail.com</strong></li>
-      </ul>
+    <td align="center" width="180">
+      <br/>
+      <b>💻 &nbsp;Languages</b>
+      <br/><br/>
     </td>
-    <td>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-A-R&layout=compact&theme=radical" alt="Top Languages" />
-      </p>
+    <td align="center">
+      <br/>
+      <img src="https://skillicons.dev/icons?i=java,python,c,bash&theme=dark&perline=4" height="60" />
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <br/>
+      <b>⚙️ &nbsp;Backend</b>
+      <br/><br/>
+    </td>
+    <td align="center">
+      <br/>
+      <img src="https://skillicons.dev/icons?i=spring,django,maven,postman&theme=dark&perline=4" height="60" />
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <br/>
+      <b>🗄️ &nbsp;Data & Streaming</b>
+      <br/><br/>
+    </td>
+    <td align="center">
+      <br/>
+      <img src="https://skillicons.dev/icons?i=kafka,postgres,mysql,redis&theme=dark&perline=4" height="60" />
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <br/>
+      <b>☁️ &nbsp;Cloud & DevOps</b>
+      <br/><br/>
+    </td>
+    <td align="center">
+      <br/>
+      <img src="https://skillicons.dev/icons?i=docker,azure,aws,linux&theme=dark&perline=4" height="60" />
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <br/>
+      <b>🔧 &nbsp;Tools</b>
+      <br/><br/>
+    </td>
+    <td align="center">
+      <br/>
+      <img src="https://skillicons.dev/icons?i=git,github,idea,grafana&theme=dark&perline=4" height="60" />
+      <br/><br/>
     </td>
   </tr>
 </table>
 
----
+</div>
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/rohanar27/" target="_blank" style="margin-right: 20px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-  <!-- GeeksforGeeks -->
-  <a href="http://www.geeksforgeeks.org/user/rohanar" target="_blank" style="margin-right: 20px;">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
+<div align="center">
 
-  <!-- Gmail -->
-  <a href="mailto:rohanar197427@gmail.com" target="_blank" style="margin-right: 20px;">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
-  </a>
+### 💬 &nbsp;Open to Backend Engineering & AI Infrastructure roles
 
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/Flash_007_/" target="_blank" style="margin-right: 20px;">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
-  </a>
+<br/>
 
-  <!-- Resume -->
-  <a href="https://drive.google.com/file/d/1iRa0C3bOTOczOn1hUQFo5TkhvNKsd5ti/view?usp=drive_link" target="_blank" style="margin-right: 20px;">
-    <img align="center" src="https://img.icons8.com/color/48/000000/resume.png" alt="Resume" height="30" width="40" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/rohanar27/">
+<img src="https://img.shields.io/badge/Let's_connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rohanar197427@gmail.com">
+<img src="https://img.shields.io/badge/Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
+</div>
 
-
-
----
-
-### 🛠️ My Toolbox:
-<p align="center">
-  <!-- Badges for core technologies -->
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell Scripting" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  </a>
-  <a href="https://github.com/langchain-ai/langchain" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=github&logoColor=white" alt="LangChain" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" />
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  </a>
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rohan-A-R&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
-<h3 align="left">🏆 Achievements:</h3>
-<ul>
-  <li>Certified in Google IT and Linux Redhat (RHCSA)</li>
-  <li>Hands-on experience with projects in Azure and Active Directory</li>
-  <li>Developed data analytics and cybersecurity monitoring tools</li>
-</ul>
----
-
-<h3 align="center">🚀 Let’s build and grow together!</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rohan-A-R&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:6366F1,100:8B5CF6&height=120&section=footer" />
